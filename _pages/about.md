@@ -21,7 +21,7 @@ I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, 
 
 ## Education
 * Ph.D. in Plasma Physics, Peking University, 2022 \
-Thesis Title: _Theory of nonlinear phase dynamics in drift wave-zonal flow system_
-\ Supervisor: Prof. [Zhibin Guo](https://faculty.pku.edu.cn/guozhibin/zh_CN/index.htm)
+Thesis Title: _Theory of nonlinear phase dynamics in drift wave-zonal flow system_ \
+Supervisor: Prof. [Zhibin Guo](https://faculty.pku.edu.cn/guozhibin/zh_CN/index.htm)
 * B.S. in Physics, Peking University, 2016
 
