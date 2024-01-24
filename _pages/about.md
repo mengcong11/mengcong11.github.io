@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+- /about/
+- /about.html
 ---
 
 I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, China. I am interested in turbulence, self-organization in magnetized plasmas, geophysical fluids, and non-equilibrium systems in general. 
