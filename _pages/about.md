@@ -12,11 +12,10 @@ I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, 
 
 ## Research Interests
 
-* Turbulence in magnetized plasmas
-* Zonal flows and other coherent structures
+* Turbulence and flows in magnetized plasmas
 * Synchronization and pattern formation in non-equilibrium systems
 * Reactivity and stability of complex dynamical systems
-* Non-Hermitian physics
+* Reciprocity, symmetry and topological properties in non-Hermitian systems 
 
 
 ## Education
