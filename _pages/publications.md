@@ -18,10 +18,7 @@ author_profile: true
 ### Non-Hermitian physics in hydrodynamic instabilities
 <table>
   <tr>
-    <td width="50%"><img src="/images/kh.png" alt="Graphical abstract" width="50%" /></td>
-    <td width="50%"><img src="/images/phaselock.png" alt="Graphical abstract" width="50%" /></td>
-  </tr>
-  <tr>
+    <td width="50%"><img src="/images/kh.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
         <li><span class="papertitle">Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities,</span><br/>
@@ -35,9 +32,7 @@ author_profile: true
 ### How coherent structures emerge from turbulence
 <table>
   <tr>
-    <td width="60%"><img src="/images/zonalflow.png" alt="Graphical abstract" width="100%" /></td>
-  <\tr>
-  <tr>
+    <td width="50%"><img src="/images/Fig_5.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
         <li><span class="papertitle">Subcritical excitation of zonal flow in drift wave turbulence,</span><br/>
