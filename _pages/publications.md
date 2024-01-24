@@ -17,20 +17,21 @@ author_profile: true
 ## Publications
 -----
 
-### _Non-Hermitian physics in hydrodynamic instabilities_
+### Non-Hermitian physics in hydrodynamic instabilities
 <table>
   <tr>
-    <td width="30%"><img src="/images/kh.jpg" alt="Graphical abstract" width="100%" /></td>
+    <td width="30%"><img src="/images/kh.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
         <li><span class="papertitle">Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities</span><br/>
-        Phys. Rev. E <strong>108</strong>, 065109 (2023); <a href="https://doi.org/10.1103/PhysRevE.108.065109">doi:10.1103/PhysRevE.108.065109</a> <a 
+        Phys. Rev. E <strong>108</strong>, 065109 (2023); <a href="https://doi.org/10.1103/PhysRevE.108.065109">doi:10.1103/PhysRevE.108.065109</a> <br/>
         <strong>Cong Meng</strong> and Zhibin Guo</li>
       </ul>
     </td>
   </tr>
+</table>
           
-### _How coherent structures emerge from turbulence_
+### How coherent structures emerge from turbulence
 <table>
   <tr>
     <td width="30%"><img src="/images/zonalflow.jpg" alt="Graphical abstract" width="100%" /></td>
