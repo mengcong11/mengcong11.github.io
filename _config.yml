@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Cong Meng"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Postdoctoral Researcher at SWIP"
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Cong-Meng" # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=I0heW7UAAAAJ"
+  email            : mengcong@pku.edu.cn
+  researchgate     :  "https://www.researchgate.net/profile/Cong-Meng"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-2610-8488"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
