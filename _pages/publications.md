@@ -21,7 +21,7 @@ author_profile: true
     <td width="50%"><img src="/images/kh.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
-        <li><span class="papertitle">Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities,</span><br/>
+        <li><span class="papertitle" font size="20">Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities,</span><br/>
         Phys. Rev. E <strong>108</strong>, 065109 (2023); <a href="https://doi.org/10.1103/PhysRevE.108.065109">doi:10.1103/PhysRevE.108.065109</a> <br/>
         <strong>Cong Meng</strong> and Zhibin Guo</li>
       </ul>
