@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, China. I am interested in turbulence, self-organization in magnetized plasmas, geophysical fluids, and non-equilibrium systems in general. 
+I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, China. I am interested in turbulence, transport and self-organization in magnetized plasmas, geophysical fluids, and non-equilibrium systems in general. 
 
 ## Research Interests
 
