@@ -16,12 +16,12 @@ author_profile: true
 {% endfor %}
 
 ### Topic: Non-Hermitian physics in hydrodynamic instabilities
-<table>
+<table border="0">
   <tr>
     <td width="40%"><img src="/images/kh.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
-        <li font size="20"><span class="papertitle">Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities,</span><br/>
+        <li font size="20"><span class="papertitle"> <strong>Vorticity wave interaction, Krein collision, and exceptional points in shear flow instabilities</strong> </span><br/>
         Phys. Rev. E <strong>108</strong>, 065109 (2023); <a href="https://doi.org/10.1103/PhysRevE.108.065109">doi:10.1103/PhysRevE.108.065109</a> <br/>
         <strong>Cong Meng</strong> and Zhibin Guo <br/>
         <a href="http://mengcong11.github.io/files/PhysRevE.108.065109.pdf">PDF</a>
@@ -32,12 +32,12 @@ author_profile: true
 </table>
           
 ### Topic: How coherent structures emerge from turbulence
-<table>
+<table border="0">
   <tr>
     <td width="40%"><img src="/images/Fig_5.png" alt="Graphical abstract" width="100%" /></td>
     <td>
       <ul>
-        <li font size="20"><span class="papertitle">Subcritical excitation of zonal flow in drift wave turbulence,</span><br/>
+        <li font size="20"><span class="papertitle"><strong>Subcritical excitation of zonal flow in drift wave turbulence</strong></span><br/>
         Phys. Plasmas <strong>29</strong>, 012307 (2022); <a href="https://doi.org/10.1063/5.0067778">doi:10.1063/5.0067778</a><br/>
         <strong>Cong Meng</strong> and Zhibin Guo</li>
       </ul>
