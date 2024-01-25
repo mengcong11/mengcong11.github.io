@@ -15,7 +15,7 @@ I am a postdoctoral researcher at Southwestern Institute of Physics in Chengdu, 
 * Turbulence and flows in magnetized plasmas
 * Synchronization and pattern formation in non-equilibrium systems
 * Reactivity and stability of complex dynamical systems
-* Reciprocity, symmetry and topological properties in non-Hermitian systems 
+* Non-Hermitian physics in fluids and plasmas: reciprocity, symmetry and topological properties
 
 ## Education
 * Ph.D. in Plasma Physics, Peking University, 2022 \
