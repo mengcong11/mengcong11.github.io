@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pages
 permalink: /blogs/
 title: "Blogs"
 ---
