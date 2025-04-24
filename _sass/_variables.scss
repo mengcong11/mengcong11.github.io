@@ -12,23 +12,23 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-// /* system typefaces */
-// $serif                      : Georgia, Times, serif;
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-// $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+/* system typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
-/* 修改系统字体变量 */
-$serif: "SimSun", "Songti SC", Georgia, Times, serif;  // 添加中文字体
-$sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", 
-             "Helvetica Neue", "Lucida Grande", Arial, sans-serif;  // 保持英文字体
+// /* 修改系统字体变量 */
+// $serif: "SimSun", "Songti SC", Georgia, Times, serif;  // 添加中文字体
+// $sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", 
+//              "Helvetica Neue", "Lucida Grande", Arial, sans-serif;  // 保持英文字体
 
-/* 设置全局字体 */
-$global-font-family: $serif;  // 主要内容使用宋体
-$header-font-family: $serif;  // 标题也使用宋体
-$caption-font-family: $serif; // 图片说明等使用宋体
+// /* 设置全局字体 */
+// $global-font-family: $serif;  // 主要内容使用宋体
+// $header-font-family: $serif;  // 标题也使用宋体
+// $caption-font-family: $serif; // 图片说明等使用宋体
 
-/* 保持代码等特殊内容的英文字体 */
-$monospace: Monaco, Consolas, "Lucida Console", monospace;
+// /* 保持代码等特殊内容的英文字体 */
+// $monospace: Monaco, Consolas, "Lucida Console", monospace;
 
 
 /* sans serif typefaces */
@@ -42,9 +42,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-// $global-font-family         : $sans-serif;
-// $header-font-family         : $sans-serif;
-// $caption-font-family        : $serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
