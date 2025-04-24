@@ -4,35 +4,43 @@ permalink: /blogs/
 title: "Blogs"
 ---
 <style>
-/* 精准控制中文为宋体，英文保持系统字体 */
+/* 精准字体控制方案 */
 .page__content {
-  /* 中文字体栈 */
-  font-family: 
-    "SimSun",                   /* Windows 宋体 */
-    "Songti SC",                /* macOS 苹方-宋 */
-    "Noto Serif CJK SC",        /* Linux 思源宋体 */
-    serif,                      /* 通用衬线回退 */
-    
-    /* 英文字体栈 */ 
-    -apple-system,              /* 保持原有系统字体 */
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    "Helvetica Neue", 
-    Arial, 
-    sans-serif;
+  /* 中文独立字体栈 */
+  --zh-font: "SimSun", "Songti SC", "Noto Serif CJK SC", serif;
   
-  /* 解决混排时英文继承问题 */
-  :not(code):not(pre):not(span):not(kbd) > *:not([class*="en"]) {
-    font-family: inherit;
+  /* 英文系统字体栈 */
+  --en-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+            "Helvetica Neue", Arial, sans-serif;
+
+  /* 混合字体策略 */
+  font-family: var(--zh-font), var(--en-font);
+}
+
+/* 强制英文元素使用原生字体 */
+.page__content {
+  /* 数字和拉丁字符 */
+  [lang=en], [class*="en"],
+  :matches(code, pre, var, kbd, samp),
+  :not(:lang(zh)):not(:lang(cn)) {
+    font-family: var(--en-font) !important;
   }
 }
 
-/* 强制代码块保持原字体 */
+/* 代码块保持等宽 */
 pre, code {
   font-family: Monaco, Consolas, "Lucida Console", monospace !important;
 }
 </style>
+
+## 笔记
+
+### 2025年4月
+
+- **4月24日星期四**<br>这是中文内容 English text 123<br>
+
+- **4月25日星期五**<br>Another English entry 中文混合<br>
+
 
 ## 笔记
 
