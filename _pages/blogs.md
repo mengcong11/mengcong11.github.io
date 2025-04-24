@@ -1,7 +1,7 @@
 ---
 layout: pages
 permalink: /blogs/
-title: "Blogs"
+title: "Blogssss"
 ---
 
 #学术日常
