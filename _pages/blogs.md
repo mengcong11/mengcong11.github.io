@@ -50,3 +50,17 @@ pre, code {
 
 - **4月25日星期五**<br>这里是下一条
 
+</entry>
+  
+  <entry>
+    <title>单独的随记</title>
+    <link href="http://mengcong11.github.io/blogs/2025/04/28/"/>
+    <id>http://mengcong11.github.io/blogs/2025/04/28/</id>
+    <published>2025-04-28T15:48:18.000Z</published>
+    <updated>2025-04-28T15:48:18.782Z</updated>
+    
+    <content type="html"><![CDATA[<p>试一试单独的一条内容</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;试一下是否可用&lt;/p&gt;</summary>
+
